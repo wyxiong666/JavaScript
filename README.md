@@ -653,7 +653,4 @@ JavaScript 必备技能
 **[:arrow_up: 返回目录](#目录)**
 
 ---
-=======
-# JavaScript-
->>>>>>> 722992e00b6cc2dff423226894f22d10d1446f70
->>>>>>> first commit
+
